@@ -23,7 +23,22 @@ Each '.ipynb' file has a separated example practical which is associated(usage) 
     ├── 4. principal_component_analysis.ipynb
     └── 5. support_vector_machines.ipynb
 ```
+
 ---
+## Documentation
+
+For a detailed explanation of the core machine learning concepts applied in each practical, please refer to [project wiki](https://github.com/TYehan/ML-Practiacal/wiki):
+
+| Practical                                                                                      | Documentation Link                                                                                           |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Core Machine Learning Concepts in Data Cleaning, Feature Engineering, and Classification (Titanic)                | [Titanic Practical](https://github.com/TYehan/ML-Practiacal/wiki/TITANIC)                                    |
+| Core Machine Learning Concepts in Data Preprocessing and Regression Analysis (Housing Price Prediction)             | [Housing Price Prediction](https://github.com/TYehan/ML-Practiacal/wiki/HOUSING_PRICE)                         |
+| Core Machine Learning Concepts in Unsupervised Learning via Clustering (Unsupervised Learning)                     | [Unsupervised Learning](https://github.com/TYehan/ML-Practiacal/wiki/UNSUPERVISED_LEARNING)                    |
+| Core Machine Learning Concepts in Dimensionality Reduction and Eigenfaces (Principal Component Analysis)           | [Principal Component Analysis](https://github.com/TYehan/ML-Practiacal/wiki/PRINCIPAL_COMPONENT_ANALYSIS)      |
+| Core Machine Learning Concepts in Support Vector Machines for Classification (Support Vector Machines)             | [Support Vector Machines](https://github.com/TYehan/ML-Practiacal/wiki/SUPPORT_VECTOR_MACHINES)                |              |
+
+---
+
 ## Table of Contents
 
 - [Machine Learning Core Concept Practicals](#machine-learning-core-concept-practicals)
@@ -39,18 +54,6 @@ Each '.ipynb' file has a separated example practical which is associated(usage) 
       - [If the kernel is not available, follow these steps:](#if-the-kernel-is-not-available-follow-these-steps)
     - [Run the Notebook Cells](#run-the-notebook-cells)
 
----
-## Documentation
-
-For a detailed explanation of the core machine learning concepts applied in each practical, please refer to [project wiki](https://github.com/TYehan/ML-Practiacal/wiki):
-
-| Practical                                                                                      | Documentation Link                                                                                           |
-|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Core Machine Learning Concepts in Data Cleaning, Feature Engineering, and Classification (Titanic)                | [Titanic Practical](https://github.com/TYehan/ML-Practiacal/wiki/TITANIC)                                    |
-| Core Machine Learning Concepts in Data Preprocessing and Regression Analysis (Housing Price Prediction)             | [Housing Price Prediction](https://github.com/TYehan/ML-Practiacal/wiki/HOUSING_PRICE)                         |
-| Core Machine Learning Concepts in Unsupervised Learning via Clustering (Unsupervised Learning)                     | [Unsupervised Learning](https://github.com/TYehan/ML-Practiacal/wiki/UNSUPERVISED_LEARNING)                    |
-| Core Machine Learning Concepts in Dimensionality Reduction and Eigenfaces (Principal Component Analysis)           | [Principal Component Analysis](https://github.com/TYehan/ML-Practiacal/wiki/PRINCIPAL_COMPONENT_ANALYSIS)      |
-| Core Machine Learning Concepts in Support Vector Machines for Classification (Support Vector Machines)             | [Support Vector Machines](https://github.com/TYehan/ML-Practiacal/wiki/SUPPORT_VECTOR_MACHINES)                |              |
 
 ---
 ## Prerequisites
