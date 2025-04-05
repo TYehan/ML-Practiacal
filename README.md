@@ -21,7 +21,8 @@ Each '.ipynb' file has a separated example practical which is associated(usage) 
     ├── 2. housing_price.ipynb
     ├── 3. unsupervised_learning.ipynb
     ├── 4. principal_component_analysis.ipynb
-    └── 5. support_vector_machines.ipynb
+    ├── 5. support_vector_machines.ipynb
+    └── 6. regularization.ipynb
 ```
 
 ---
@@ -31,12 +32,12 @@ For a detailed explanation of the core machine learning concepts applied in each
 
 | Practical                                                                                      | Documentation Link                                                                                           |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Core Machine Learning Concepts in Data Cleaning, Feature Engineering, and Classification (Titanic)                | [Titanic Practical](https://github.com/TYehan/ML-Practiacal/wiki/TITANIC)                                    |
-| Core Machine Learning Concepts in Data Preprocessing and Regression Analysis (Housing Price Prediction)             | [Housing Price Prediction](https://github.com/TYehan/ML-Practiacal/wiki/HOUSING_PRICE)                         |
-| Core Machine Learning Concepts in Unsupervised Learning via Clustering (Unsupervised Learning)                     | [Unsupervised Learning](https://github.com/TYehan/ML-Practiacal/wiki/UNSUPERVISED_LEARNING)                    |
-| Core Machine Learning Concepts in Dimensionality Reduction and Eigenfaces (Principal Component Analysis)           | [Principal Component Analysis](https://github.com/TYehan/ML-Practiacal/wiki/PRINCIPAL_COMPONENT_ANALYSIS)      |
-| Core Machine Learning Concepts in Support Vector Machines for Classification (Support Vector Machines)             | [Support Vector Machines](https://github.com/TYehan/ML-Practiacal/wiki/SUPPORT_VECTOR_MACHINES)                |              |
-
+| Core Machine Learning Concepts in Data Cleaning, Feature Engineering, and Classification (Titanic) | [Titanic Practical](https://github.com/TYehan/ML-Practiacal/wiki/TITANIC)                                    |
+| Core Machine Learning Concepts in Data Preprocessing and Regression Analysis (Housing Price Prediction) | [Housing Price Prediction](https://github.com/TYehan/ML-Practiacal/wiki/HOUSING_PRICE)                         |
+| Core Machine Learning Concepts in Unsupervised Learning via Clustering (Unsupervised Learning) | [Unsupervised Learning](https://github.com/TYehan/ML-Practiacal/wiki/UNSUPERVISED_LEARNING)                    |
+| Core Machine Learning Concepts in Dimensionality Reduction and Eigenfaces (Principal Component Analysis) | [Principal Component Analysis](https://github.com/TYehan/ML-Practiacal/wiki/PRINCIPAL_COMPONENT_ANALYSIS)      |
+| Core Machine Learning Concepts in Support Vector Machines for Classification (Support Vector Machines)  | [Support Vector Machines](https://github.com/TYehan/ML-Practiacal/wiki/SUPPORT_VECTOR_MACHINES)                |
+| Overcome overfitting using Regularization technique (Regularization) | [Regularization](https://github.com/TYehan/ML-Practiacal/wiki/REGULARIZATION) |
 ---
 
 ## Table of Contents
